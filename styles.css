@@ -4,6 +4,10 @@ h1 {
     
 }
 
+h2{
+    background-color: lightseagreen;
+}
+
 #logo {
     width: 600px;
     height: auto;
